@@ -1,0 +1,1 @@
+from .definicoeschat import ChatAtividadesService
