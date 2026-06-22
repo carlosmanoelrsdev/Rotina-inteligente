@@ -1,3 +1,6 @@
+# PROJETO PREMIADO!
+#1º lugar no desafio "50 Dias de Código", realizado em parceria com a Rocketseat.
+
 # Rotina Inteligente - Agenda com Clima, IA e Notificações
 
 **Projeto desenvolvido para auxilio de rotina**
